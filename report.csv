@@ -1,0 +1,35 @@
+2025-10-30 22:52:28,Pump 1 stopped suddenly,Mechanical failure
+2025-10-30 22:54:17,Display screen flickering,Electrical issue
+2025-10-30 22:55:16,Fuel overflow in storage tank,Safety hazard
+2025-10-30 22:57:11,Compressor overheated during refill,Mechanical failure
+2025-10-30 23:19:02,Sensor not showing correct value,Sensor failure,3012,No
+2025-10-30 23:25:58,Pump 1 stopped suddenly,Mechanical failure,1018,No
+2025-10-31 00:01:57,Sensor not showing correct value,Sensor failure,4354,Yes
+2025-10-31 00:03:01,Compressor overheated during refill,Mechanical failure,1988,Yes
+2025-11-01 15:54:52,Compressor overheated during refill,Mechanical failure,2004,No
+2025-11-01 15:56:02,Sensor not showing correct value,Sensor failure,4984,No
+2025-11-01 16:00:27,Fuel overflow in storage tank,Safety hazard,3805,No
+2025-11-01 16:06:46,Display screen flickering,Electrical issue,561,No
+2025-11-01 16:06:58,Compressor overheated during refill,Mechanical failure,1940,No
+2025-11-03 15:54:48,Sensor not showing correct value,Sensor failure,3149,Yes
+2025-11-03 19:39:23,Compressor overheated during refill,Mechanical failure,621,Yes
+2025-11-04 00:19:07,Fuel overflow in storage tank,Safety hazard,721,No
+2025-11-04 00:19:27,Compressor overheated during refill,Mechanical failure,1172,Yes
+2025-11-04 15:46:24,Leak detected near dispenser,Safety hazard,2812,No
+2025-11-04 15:46:52,Display screen flickering,Electrical issue,4832,No
+2025-11-04 15:48:26,Fuel overflow in storage tank,Safety hazard,3675,Yes
+2025-11-04 16:10:05,Display screen flickering,Electrical issue,4055,Yes
+2025-11-04 16:33:08,Leak detected near dispenser,Safety hazard,3357,Yes
+2025-11-04 17:24:18,Leak detected near dispenser,Safety hazard,4319,Yes
+2025-11-04 17:26:07,Display screen flickering,Electrical issue,844,Yes
+2025-11-04 21:30:02,Pump 1 stopped suddenly,Mechanical failure,2616,No
+2025-11-04 21:31:46,Sensor not showing correct value,Sensor failure,3323,Yes
+2025-11-05 08:51:13,Display screen flickering,Electrical issue,605,Yes
+2025-12-09 09:57:48,Pump 1 stopped suddenly,Mechanical failure,1856,No
+2025-12-09 09:59:25,Fuel overflow in storage tank,Safety hazard,4230,No
+2026-02-18 19:08:02,Display screen flickering,Electrical issue,4635,No
+2026-02-18 19:08:23,Pump 1 stopped suddenly,Mechanical failure,4029,Yes
+2026-02-18 19:08:36,Fuel overflow in storage tank,Safety hazard,786,Yes
+2026-07-26 18:49:26,Fuel overflow in storage tank,Safety hazard,1576,Yes
+2026-07-26 18:50:06,Leak detected near dispenser,Safety hazard,3106,Yes
+2026-07-26 19:08:11,Display screen flickering,Electrical issue,4447,Yes
